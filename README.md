@@ -1,2 +1,2 @@
 # CURRENCY_CONVERTER
-Author: Vedang Rane
+Author: Vedang Rane (project)
